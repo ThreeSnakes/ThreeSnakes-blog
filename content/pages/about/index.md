@@ -1,7 +1,7 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "./notebook.jpg"
+socialImage: "./about.png"
 ---
 
 ![about](./about.png)
