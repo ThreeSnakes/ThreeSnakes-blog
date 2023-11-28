@@ -1,5 +1,6 @@
 @use "sass:math";
 @use "sass:color";
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&family=Poor+Story&display=swap');
 
 $color-dark: hsl(220, 17%, 17%);
 $color-dark-cloud: hsl(220, 17%, 30%);
@@ -15,7 +16,7 @@ $typographic-base-font-size: 16px;
 $typographic-small-font-size: 14px;
 $typographic-base-line-height: 1.625;
 $typographic-leading: math.round(16 * math.div($typographic-root-font-size, 100) * $typographic-base-line-height);
-$typographic-font-family: -apple-system, "BlinkMacSystemFont", "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+$typographic-font-family: "Comic Neue", "Poor Story", "BlinkMacSystemFont", "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
 
 $button-height: 40px;
 $button-border-radius: 20px;
