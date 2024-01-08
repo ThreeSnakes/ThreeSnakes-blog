@@ -1,11 +1,11 @@
 {
-  "title": "Blog by John Doe",
+  "title": "ThreeSnakes",
   "url": "https://lumen.alxshelepenok.com",
-  "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+  "subtitle": "삽질을 막기위한 Blog..",
   "copyright": "© All rights reserved.",
   "googleAnalyticsId": "UA-73379983-2",
   "disqusShortname": "",
-  "postsLimit": 4,
+  "postsLimit": 8,
   "pathPrefix": "/",
   "menu": [
     {
@@ -22,12 +22,12 @@
     }
   ],
   "author": {
-    "name": "John Doe",
-    "photo": "/photo.jpg",
-    "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "name": "ThreeSnakes",
+    "photo": "/about.png",
+    "bio": "6년째 삽질중인 풀스택 개발자..?",
     "contacts": {
       "rss": "",
-      "email": "",
+      "email": "dev.select995@gmail.com",
       "github": "#",
       "facebook": "#",
       "telegram": "#",
