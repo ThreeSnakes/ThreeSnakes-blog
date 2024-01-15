@@ -1,10 +1,10 @@
 {
   "title": "ThreeSnakes",
-  "url": "https://lumen.alxshelepenok.com",
+  "url": "https://threesnakes.net",
   "subtitle": "삽질을 막기위한 Blog..",
   "copyright": "© All rights reserved.",
   "googleAnalyticsId": "G-762DVYDE9R",
-  "disqusShortname": "",
+  "disqusShortname": "threesnakes-net",
   "postsLimit": 8,
   "pathPrefix": "/",
   "menu": [
