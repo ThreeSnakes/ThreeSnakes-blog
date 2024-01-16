@@ -16,6 +16,7 @@ const Meta: React.FC<Props> = ({ description, title, image }: Props) => (
     <meta name="og:title" content={title} />
     <meta name="og:type" content="website" />
     <meta name="og:description" content={description} />
+    <meta name="naver-site-verification" content="156670c3d70abbafe7a8e9d6f25553994485a864" />
 
     {image ? (
       <>
