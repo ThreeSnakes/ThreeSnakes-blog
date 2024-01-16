@@ -199,5 +199,13 @@ export default {
     "gatsby-plugin-catch-links",
     "gatsby-plugin-optimize-svgs",
     "gatsby-plugin-sass",
+    {
+      resolve: "gatsby-plugin-robots-txt",
+      options: {
+        host: config.url,
+        sitemap: `${config.url}/sitemap-index.xml`,
+        policy: [{ userAgent: "*", allow: "/" }],
+      },
+    },
   ],
 };
